@@ -1,0 +1,224 @@
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.center{
+    position: absolute;
+    top: 170px;
+    left: 200px;
+
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+
+}
+.word{
+	font-weight: bold;
+	font-size: 20px
+}
+.logo
+{
+	
+	width: 300px;
+	height: 90px;
+}
+.right {
+    position: absolute;
+    top: 60px;
+    right : 600px;
+}
+.right1
+{
+	position: absolute;
+    top: 60px;
+    right : 500px;
+    }
+ .pro
+ {
+ 	position :absolute;
+ 	top:60px;
+  right:  440px;
+ }
+ .install
+ {  
+ 	position:absolute;
+ 	top :60px;
+ 	right :300px;
+ 	color :#FFA500;
+ 	border-style:solid;
+ 	border-width:2px;
+ 	border-color: #FFA500;
+
+ }
+ .head
+ {
+ 	font-weight:bold;
+ }
+ .list1
+ { color:black;
+ 	position: absolute;
+ 	bottom: 400px;
+ 	left: 20px
+ }
+ .second
+ {color:black;
+ 	position: absolute;
+ 	bottom: 380px;
+ 	left: 20px
+ }
+ .third
+ {color:black;
+ 	position: absolute;
+ 	bottom:360px;
+ 	left: 20px
+ }
+ .four
+ {
+ 	color:black;
+ 	position: absolute;
+ 	bottom: 340px;
+ 	left: 20px
+ }
+ .item{
+ 	color:white;
+ }
+ 
+ 	
+ .five{
+ 	color:black;
+ 	position: absolute;
+ 	bottom :320px;
+ 	left:20px;
+ }
+
+ .list11{color:black;
+ 	position: absolute;
+ 	bottom:400px;
+ 	left: 200px;
+ }
+
+ .second1{color:black;
+ 	position: absolute;
+ 	bottom:380px;
+ 	left: 200px
+ }
+ .third1{color:black;
+ 	position: absolute;
+ 	bottom:360px;
+ 	left: 200px;
+ }
+.list111{
+	color:black;
+ 	position: absolute;
+ 	bottom:400px;
+ 	left: 380px;
+ }
+
+ .second11{
+ 	color:black;
+ 	position: absolute;
+ 	bottom:380px;
+ 	left: 380px;
+ }
+ .third11{
+ 	color:black;
+ 	position: absolute;
+ 	bottom:360px;
+ 	left: 380px;
+ }
+ .list4
+ { color:black;
+ 	position: absolute;
+ 	bottom: 400px;
+ 	left: 560px;
+ }
+ .second3
+ {color:black;
+ 	position: absolute;
+ 	bottom: 380px;
+ 	left:  560px;
+ }
+ .third3
+ {color:black;
+ 	position: absolute;
+ 	bottom:360px;
+ 	left:  560px;
+ }
+ .four3
+ {
+ 	color:black;
+ 	position: absolute;
+ 	bottom: 340px;
+ 	left:  560px;
+ }
+ .five3{
+ 	color:black;
+ 	position: absolute;
+ 	bottom :320px;
+ 	left:560px;
+ }
+ .list5
+ { color:black;
+ 	position: absolute;
+ 	bottom: 400px;
+ 	left: 720px
+ }
+ .second4
+ {color:black;
+ 	position: absolute;
+ 	bottom: 380px;
+ 	left: 720px
+ }
+ .third4
+ {color:black;
+ 	position: absolute;
+ 	bottom:360px;
+ 	left: 720px
+ }
+ .four4
+ {
+ 	color:black;
+ 	position: absolute;
+ 	bottom: 340px;
+ 	left: 720px
+ }
+ .col{
+ 	 color:black;
+ 	position: absolute;
+ 	bottom: 420px;
+ 	left: 20px;
+ 	font-weight :bold ;
+ }
+ .col1{
+ 	 color:black;
+ 	bottom: 420px;
+ 	position: absolute;
+ 	left: 200px;
+ 	font-weight :bold ;
+ }
+ .col2{
+ 	 color:black;
+ 	position: absolute;
+ 	bottom: 420px;
+ 	left: 380px;
+ 	font-weight :bold ;
+ }
+  .col3{
+ 	 color:black;
+ 	position:absolute;
+ 	bottom:420px;
+ 	left:560px;
+ 	font-weight :bold ;
+ }
+ .col4{
+ 	 color:black;
+ 	position: absolute;
+ 	bottom: 420px;
+ 	left: 720px;
+ 	font-weight :bold ;
+ }
+
+ 
